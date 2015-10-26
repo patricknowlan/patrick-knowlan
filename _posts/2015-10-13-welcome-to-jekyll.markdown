@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Second Post"
 date:   2015-11-13 19:33:50
 categories: jekyll update
